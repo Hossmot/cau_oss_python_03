@@ -6,3 +6,6 @@ Homework#2, simple calculator 구현
 
 ## 2023-05-18
 Homework#4, figure 모듈 구현
+
+## 2023-06-01
+Homework#5, branch를 이용해 작업 merge
